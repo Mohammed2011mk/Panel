@@ -1,2 +1,3 @@
 bash <(curl -fsSL https://codes.pixelzone.qzz.io)
 bash <(curl -fsSL https://ptero.pixelzone.qzz.io)
+bash <(curl -fsSL playit.pixelzone.qzz.io)
